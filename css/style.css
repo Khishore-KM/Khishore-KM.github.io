@@ -958,7 +958,7 @@ form label {
   display: inline-block;
   width: 100px;
   height: 100px;
-  background: rgb(217,186,83);
+  background: rgb(255, 255, 255);
   margin: 0 4px;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
@@ -991,6 +991,7 @@ form label {
 .simply-countdown > .simply-section .simply-word {
   display: block;
   color: black;
+  font-weight: bold;
   /* amounts and words */
 }
 
@@ -1059,12 +1060,12 @@ form label {
 #fh5co-couple{
   background-image: url(../images/floral.jpeg);
   background-repeat:no-repeat;
-  background-color:#f7f7f7;
+  background-color:#f7f7f7; 
   padding: 40px;
 }
 
 .fh5co-section-gray {
-  background: rgba(0, 0, 0, 0.04);
+  background: rgba(0, 0, 0, 0);
 }
 
 .couple-wrap {
